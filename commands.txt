@@ -1,0 +1,21 @@
+﻿```
+Available commands:
+ ping
+ roll
+ help / commands
+ join // WIP
+ invite
+ t - povídání s botem // WIP
+ slots
+ rs - náhodný generátor komentářů z novinky.cz
+ coinshelp
+ lvl
+hudba - zapne playback hudby
+  play - přehraje dané video buď z linku nebo
+  z vyhledávače
+  stop
+  pause
+  begone - opustí daný kanál
+  nowplaying
+  queue
+```
